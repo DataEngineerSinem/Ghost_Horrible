@@ -6,7 +6,7 @@ namespace ConsoleCreatures
   {
     static void Main()
     {
-      //Drawing Horrifying the ghost w/ASCII characters//
+      //Drawing Horrible the ghost w/ASCII characters//
       Console.WriteLine(" .-."); 
       Console.WriteLine("(o o)"); 
       Console.WriteLine("| O |"); 
