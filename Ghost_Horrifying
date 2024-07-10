@@ -12,7 +12,7 @@ namespace ConsoleCreatures
       Console.WriteLine("| O |"); 
       Console.WriteLine("|   |");
       Console.WriteLine("'~~~'");
-      Console.WriteLine("Horrifying");
+      Console.WriteLine("Horrible");
       Console.WriteLine("c_    ___");
       Console.WriteLine("  \\__|___|__");
       Console.WriteLine("   \\( o_o )");
