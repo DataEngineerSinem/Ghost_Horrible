@@ -6,13 +6,13 @@ namespace ConsoleCreatures
   {
     static void Main()
     {
-      //Drawing Horrible the ghost w/ASCII characters//
+      //Drawing GhostHayalet_Berbatterrible the ghost w/ASCII characters//
       Console.WriteLine(" .-."); 
       Console.WriteLine("(o o)"); 
       Console.WriteLine("| O |"); 
       Console.WriteLine("|   |");
       Console.WriteLine("'~~~'");
-      Console.WriteLine("Horrible");
+      Console.WriteLine("BerbatTerrible");
       Console.WriteLine("c_    ___");
       Console.WriteLine("  \\__|___|__");
       Console.WriteLine("   \\( o_o )");
